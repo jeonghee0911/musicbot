@@ -1,0 +1,8 @@
+{ 
+    "token": "NzQ5MTI0NzczNjEwNzgyODMx.X0na0A.Ef9lBkTGpo9RDmt9mjq2ZgFIi6A",
+    "prefix": "m!",
+    "nodes": [
+        { "id": "default", "host": "localhost", "port": 2333, "password": "musicbot!!" }
+    ],
+    "owner": "673471748599054336"
+}
