@@ -9,4 +9,7 @@
 
 이 봇은 Lavalink를 이용해서 실행하는 것으로 [여기](https://github.com/Frederikam/Lavalink/releases)에서 Lavalink 최신버전과 
 
-[openjdk](https://openjdk.java.net/) 최신버전을 다운받아서 해주세욥!
+### openjdk 다운방법!
+- windows, mac은 [여기](https://www.oracle.com/java/technologies/javase-downloads.html)에서 최신버전 다운받아 주세욥!
+
+- Linux는 [여기](https://openjdk.java.net/install/index.html)로 가셔서 밑에 있는 내용중에서 자신의 linux os에 맞게 진행해 주세욥!
