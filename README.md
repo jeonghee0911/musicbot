@@ -13,3 +13,5 @@
 - windows, mac은 [여기](https://www.oracle.com/java/technologies/javase-downloads.html)에서 최신버전 다운받아 주세욥!
 
 - Linux는 [여기](https://openjdk.java.net/install/index.html)로 가셔서 밑에 있는 내용중에서 자신의 linux os에 맞게 진행해 주세욥!
+
+### 현재 이 코드는 사용 안 합니다. 이 점 참고 부탁드립니다.
